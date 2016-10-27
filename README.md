@@ -1,2 +1,3 @@
 # hello-World
-This is mz first commit
+This is my first commit
+Adding changes manually
